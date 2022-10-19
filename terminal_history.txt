@@ -1,0 +1,50 @@
+  503  ls
+  504  cd Documents/
+  505  cd Fintech/
+  506  ls
+  507  cd Module3\ Financial\ Analysis\ with\ Pandas/
+  508  ls
+  509  cd Starter_Code
+  510  ls
+  511  git remote add origin https://github.com/wf880180/Crypto_Arbitrage.git
+  512  git clone
+  513  git clone https://github.com/wf880180/Crypto_Arbitrage.git
+  514  cd ..
+  515  git clone https://github.com/wf880180/Crypto_Arbitrage.git
+  516  clear
+  517  cd Starter_Code
+  518  git init
+  519  git add crypto_arbitrage.ipynb && git commit -m "main python file"
+  520  git config --global user.name "Edith"
+  521  git add README.md && git commit -m "Readme file update"
+  522  git push
+  523  git push --set-upstream origin master
+  524  git remote -v
+  525  ssh-keygen -p -f ~/.ssh/id_ed25519
+  526  .ssh/identity
+  527  ls -al ~/.ssh
+  528  eval "$(ssh-agent -s)"
+  529  open ~/.ssh/config
+  530  touch ~/.ssh/config
+  531  chmod 600 ~/.ssh/config
+  532  vim ~/.ssh/config
+  533  ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+  534  pbcopy < ~/.ssh/id_ed25519.pub
+  535  git remote -v
+  536  git remote set-url origin git@github.com:wf880180/Crypto_Arbitrage.git
+  537  git remote -v
+  538  git push -u origin main
+  539  git add -v
+  540  ls
+  541  git add crypto_arbitrage.ipynb && git commit -m "main python file"
+  542  git add Resource && git commit -m "resource csv file"
+  543  git add Resources/. && git commit -m "resource csv file" 
+  544  ls
+  545  git add README.md && git commit -m "update README file"
+  546  git push origin main
+  547  git init -b main
+  548  git remote -v
+  549  git push -u origin main
+  550  git push -u origin 
+  551  git push --set-upstream origin master
+  552  history 50 > terminal_history.txt
